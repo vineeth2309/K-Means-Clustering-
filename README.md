@@ -12,6 +12,6 @@ The K means algorithm splits the dataset into clusters based on the parameters s
 **Run:**
 python KMeans.py
 
-To Add:
+**To Add:**
 1) Find the optimal value of K automatically based on distances.
 2) Add condition to stop iterating, if distance between iterations does not change much.
